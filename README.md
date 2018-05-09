@@ -7,17 +7,20 @@
 Creamos una carpeta donde se desea almacenar el cliente y el servidor.
 
 
-	```sh
+	```batch
 	mkdir projects/websockets && cd projects/websockets
 	```
 
-	```sh
+	```batch
 	 git clone https://github.com/CURSOS-TEC/cliente-servidor-websokets.git
 	```   
 ### Ejecutar el instalador de paquetes
-	```shs
+	```batch
 	npm install
 	``` 
 
 ## Ejecutar el servidor.
+```batch
+	node index.js
+```
 
