@@ -1,0 +1,9 @@
+var socksocket.emit('message',{ id: userId, msg : message});socket.emit('message',{ id: userId, msg : message});et = require('socket.io-client')('http://localhost:8989');
+socket.on('connect', function(){
+	console.log("connected");
+	
+});
+socket.on('event', function(data){
+
+});
+socket.on('disconnect', function(){});
