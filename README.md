@@ -3,6 +3,7 @@
 ## Requisitos de Software
 
 ### Instalación de NodeJS
+Este projecto requiere de la instalción de NodeJS y sus dependencias.
 ### Clonar el repositorio:
 Creamos una carpeta donde se desea almacenar el cliente y el servidor.
 
