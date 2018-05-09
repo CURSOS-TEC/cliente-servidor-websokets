@@ -48,6 +48,6 @@ En una sesión de la terminal, navegar hasta el directorio llamado socket-client
 ```
 Ejecutar el siguiente comando para iniciar el cliente.
 ```batch
-node index.js
+node client-node.js
 ```
 
